@@ -11,6 +11,7 @@ It demonstrates modern Android development practices, including **Compose UI**, 
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Dependencies](#dependencies)
 
 ---
 
